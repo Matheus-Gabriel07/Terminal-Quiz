@@ -29,6 +29,4 @@ java terminalQuiz
 
 ## Documentação
 
-Estrutura do código - Em breve
-
-
+[Estrutura do código](https://github.com/Matheus-Gabriel07/Terminal-Quiz/wiki/Documenta%C3%A7%C3%A3o-da-estrutura)
